@@ -29,3 +29,8 @@ https://github.com/user-attachments/assets/33677087-3a9d-45c7-94e4-ee2726cea294
 qiangke.py是不刷新浏览器，每次失败后间隔一小段时间重新抢，抢课间隔短，容易被检测到并要求输入验证码
 
 qiangkeshuaxin.py会在每一轮抢课后刷新浏览器，抢课间隔更长，更不容易被检测
+
+
+##注意事项
+1.python3.9.0版本才能执行pip
+2.记得vscode打开要改路径
